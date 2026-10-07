@@ -1,33 +1,27 @@
-# SQL Data Cleaning — Global Layoffs
+# Project Title
+One line: what business question it answers.
 
-A practical **MySQL data-cleaning project** focused on transforming a raw layoffs dataset into a clean, analysis-ready dataset.
+## Problem
+Who needs this data and why.
 
-## 🚀 What I Did
+## Dataset
+Source, size (rows/columns), key fields.
 
-- Created staging tables to preserve raw data.
-- Identified and removed duplicate records using `ROW_NUMBER()`.
-- Standardized company, industry, and country values.
-- Converted text-based dates into proper `DATE` format.
-- Handled `NULL` and empty values.
-- Filled missing industry values using self-joins.
-- Performed final data-quality and duplicate validation.
+## Approach
+1. Cleaning steps
+2. SQL / Python analysis
+3. Dashboard build
 
-## 🛠️ Tech Stack
+## Key Insights
+- Finding 1 (with a number)
+- Finding 2
+- Finding 3
 
-**MySQL • SQL • CTEs • Window Functions • JOINs • Data Cleaning**
+## Dashboard
+![Dashboard screenshot](images/dashboard.png)
 
-## 📊 Skills Demonstrated
+## Tools
+Python, Pandas, SQL, Power BI
 
-`Data Cleaning` · `Data Transformation` · `Data Quality` · `SQL Analytics` · `Window Functions` · `NULL Handling`
-
-## 📁 Project Structure
-
-```text
-SQL-Data-Cleaning/
-├── Project 1(Data Cleaning).sql
-└── README.md
-```
-
-## 💼 Resume Highlight
-
-> Cleaned and transformed a global layoffs dataset using MySQL, applying window functions, CTEs, joins, data standardization, date conversion, NULL handling, and data-quality validation to produce an analysis-ready dataset.
+## How to Run
+Steps to reproduce.
